@@ -1,6 +1,4 @@
-[![Build Status](https://travis-ci.org/ITechPSP/paymentpage-sdk-python.svg?branch=master)](https://travis-ci.org/ITechPSP/paymentpage-sdk-python)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/d02745619d7dfdd5630f/test_coverage)](https://codeclimate.com/github/ITechPSP/paymentpage-sdk-python/test_coverage)
-[![Maintainability](https://api.codeclimate.com/v1/badges/d02745619d7dfdd5630f/maintainability)](https://codeclimate.com/github/ITechPSP/paymentpage-sdk-python/maintainability)
+[![Build Status](https://travis-ci.com/ITechPSP/paymentpage-sdk-python.svg?branch=main)](https://travis-ci.com/ITechPSP/paymentpage-sdk-python)
 
 # ITechPSP payment page SDK
 
