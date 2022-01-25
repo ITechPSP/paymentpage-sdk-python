@@ -1,9 +1,9 @@
-[![Build Status](https://travis-ci.com/ITechPSP/paymentpage-sdk-python.svg?branch=main)](https://travis-ci.com/ITechPSP/paymentpage-sdk-python)
+[![Build Status](https://travis-ci.com/trxhosts/paymentpage-sdk-python.svg?branch=main)](https://travis-ci.com/trxhosts/paymentpage-sdk-python)
 
-# ITechPSP payment page SDK
+# TrxHosts payment page SDK
 
 This is a set of libraries in the Python language to ease integration of your service
-with the ITechPSP Payment Page.
+with the TrxHosts Payment Page.
 
 Please note that for correct SDK operating you must have at least Python 3.5.  
 
@@ -15,7 +15,7 @@ Please note that for correct SDK operating you must have at least Python 3.5.
 
 Install with pip
 ```bash
-pip install itechpsp-sdk
+pip install trxhosts-sdk
 ```
 
 ### Get URL for payment
@@ -34,7 +34,7 @@ payment_url = gate.get_purchase_payment_page_url(payment)
 
 `payment_url` here is the signed URL.
 
-### Handle callback from ITechPSP
+### Handle callback from TrxHosts
 
 You'll need to autoload this code in order to handle notifications:
 
